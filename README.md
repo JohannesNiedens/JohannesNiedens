@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johannesniedens&label=Profile%20views&color=0e75b6&style=flat" alt="johannesniedens" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning the **MERN Stack**
 
 - 📫 How to reach me **johannesniedens@gmail.com**
 
